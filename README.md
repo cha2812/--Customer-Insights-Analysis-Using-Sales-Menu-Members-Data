@@ -13,6 +13,7 @@ The following questions were asked and the answers were provided to questions an
 4. The item that was purchased just before the customer became a member.
 5. The total items and amount spent for each member before they became a member.
 
+
 ## Data Analysis
 The analysis was done using tables that were provided. The 3 tables provided were the sales table, the menu table and the members table. <br>
 The sales table had 3 columns; customer id, order date, and product id. <br>
@@ -52,3 +53,16 @@ Customer A bought a total of 2 items and spent $25. <br>
 Customer B bought a total of 3 items and spent $40. <br>
 
 ![](pic5.png)                                          ![](vis5.png)
+
+## Recommendations
+I would identify the most purchased item on the menu which is Ramen and its purchase count. Consider promoting this popular item or creating variations that align with its characteristics. Additionally, I would also analyze the least purchased items to determine if they can be improved, repositioned, or removed to streamline the menu. <br>
+I would personalize marketing campaigns, and send targeted offers, discounts, or recommendations based on each customer's preferences to enhance engagement and drive repeat business. <br>
+Design membership benefits that align with these purchase patterns, such as offering discounts on the first purchase after joining or exclusive deals on items frequently purchased by members. <br>
+Create special offers or rewards for items that were purchased first after customers joined as members. <br>
+Recognize and reward customers who made significant purchases before becoming members. Consider offering loyalty points, early access to promotions, or personalized offers to acknowledge their loyalty and encourage them to continue their patronage.
+
+## Conclusion
+We can create a surprise to the dining experience that resonates with our diverse clientele. <br>
+We can attract and lure our customers with tailored offers and recommendations, fostering a connection that goes beyond mere transactions. <br>
+By validating and enhancing the value of membership, we can pave the way for a seamless transition that increases the connection between customers and the restaurant. <br>
+Tailored experiences that cater to each customer's unique characteristics, build stronger connections and drive higher customer satisfaction.
