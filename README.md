@@ -2,7 +2,7 @@
 Emphasizes the comprehensive nature of your project, covering customer behaviour analysis, sales data, menu items, and the SQL queries used for analysis
 
 ## Introduction
-The Danny Ma restaurant dataset was provided with three(3) files which represented our tables. We have sales, menu and members which we created in PostgreSQL and I performed data analysis using SQL. The dataset contains information about various customer IDs, order dates, product IDs, prices, product names and the join date details.
+The Danny Ma restaurant dataset was provided with three(3) files that represented our tables. We have sales, menu and members which we created in PostgreSQL and I performed data analysis using SQL. The dataset contains information about various customer IDs, order dates, product IDs, prices, product names and the join date details.
 
 ## Problem Statement
 I wanted to find a way to understand the business of Danny Ma and how the products he offered were been received by customers. Figure out the relationship between price, products and customers. 
